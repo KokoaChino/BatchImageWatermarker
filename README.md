@@ -1007,15 +1007,6 @@ frontend
 
 
 
-
-## 🤝 贡献指南
-
-*🚧 文档完善中（预计下个主要版本更新）*
-
-如有紧急贡献需求，请通过 [GitHub Issues](https://github.com/KokoaChino/BatchImageWatermarker/issues) 或 📧 2178740980@qq.com 联系维护者
-
-
-
 ## 📜 许可证
 
 本项目采用 **[MIT License](LICENSE)** 开源协议，核心条款如下：
@@ -1034,40 +1025,6 @@ frontend
 > 作者/版权持有者对任何索赔、损害或其他责任不承担责任
 
 完整法律文本请查看 [LICENSE](LICENSE) 文件
-
-
-
-## ❓ 常见问题
-
-1. **字体缺失报错处理**
-   
-   ```diff
-   + 系统预设样式报错：
-     1. 下载对应字体文件
-     2. 安装至系统字体目录（Windows: C:\Windows\Fonts）
-   
-   + 自定义样式报错：
-     请根据提示上传字体文件
-   ```
-
-如有紧急问题反映，请通过 [GitHub Issues](https://github.com/KokoaChino/BatchImageWatermarker/issues) 或 📧 2178740980@qq.com 联系维护者
-
-
-
-## 📞 联系方式
-- **QQ：**2178740980
-- **微信：**ryu0785
-- **GitHub Issues**：https://github.com/KokoaChino/BatchImageWatermarker/issues
-
-
-
-## 💌 反馈与支持
-
-如遇系统异常或有优化建议，欢迎在 [GitHub Issues](https://github.com/KokoaChino/BatchImageWatermarker/issues) 提交反馈。您的每一条意见都将推动项目迭代
-若您认为此项目对您有所助益，您的 **Star** 或 **Pull Request** 将是我持续改进的最大动力
-
-衷心感谢您的关注与支持！
-—— 项目开发者 星开祈灵 (*´∀`)~♥ 
 
 ![批量图片水印处理系统 项目文档-18.png](http://8.138.214.176:5174/项目图床/批量图片水印处理系统%20项目文档-18.png?v=1)
 
